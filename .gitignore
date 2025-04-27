@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# my customizations from the defaults created by Git above for a Python project
+scratch.py
